@@ -1,4 +1,3 @@
 # photomosaicCL - A Photomosaic Generator
 
-## WORK IN PROGRESS<br/>
-This project will eventually generate a photomosaic.
+This application generates a photomosaic of an image, from a folder of source images.
